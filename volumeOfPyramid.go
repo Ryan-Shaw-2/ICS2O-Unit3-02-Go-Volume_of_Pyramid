@@ -9,9 +9,9 @@ import "fmt"
 
 func main() {
 	// This function calculates the volume of a pyramid
-	var length int
-	var width int
-	var height int
+	var length float64
+	var width float64
+	var height float64
 
 	// input
 	fmt.Println("This program calculates the volume of a pyramid")
