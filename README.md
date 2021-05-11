@@ -1,1 +1,2 @@
 # ICS2O-Unit3-02-Go-Volume_of_Pyramid
+[![GitHub's Super Linter](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-02-Go-Volume_of_Pyramid/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/Ryan-Shaw-2/ICS2O-Unit3-02-Go-Volume_of_Pyramid/actions)
